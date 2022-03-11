@@ -1,0 +1,16 @@
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\Library DDOS.exe
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\Library DDOS.deps.json
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\Library DDOS.runtimeconfig.json
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\Library DDOS.runtimeconfig.dev.json
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\Library DDOS.dll
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\ref\Library DDOS.dll
+D:\сSHARP sist prog\Library DDOS\bin\Debug\net5.0\Library DDOS.pdb
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.csproj.AssemblyReference.cache
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.AssemblyInfoInputs.cache
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.AssemblyInfo.cs
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.csproj.CoreCompileInputs.cache
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.dll
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\ref\Library DDOS.dll
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.pdb
+D:\сSHARP sist prog\Library DDOS\obj\Debug\net5.0\Library DDOS.genruntimeconfig.cache
