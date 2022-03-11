@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\сSHARP sist prog\\Library DDOS\\Library DDOS.csproj",
+      "projectUniqueName": "D:\\сSHARP sist prog\\Library\\Library DDOS.csproj",
       "projectName": "Library DDOS",
-      "projectPath": "D:\\сSHARP sist prog\\Library DDOS\\Library DDOS.csproj",
+      "projectPath": "D:\\сSHARP sist prog\\Library\\Library DDOS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\сSHARP sist prog\\Library DDOS\\obj\\",
+      "outputPath": "D:\\сSHARP sist prog\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
